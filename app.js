@@ -144,9 +144,9 @@ temizleBtn.addEventListener("click", () => {
 });
 
 
-//* ===================================*//
-             //?NOTLARIM
-//* ===================================*//
+// * =======================================================
+// *             NOTLARIM!
+// * =======================================================
 // !HTML Web Depolama nedir?
 // ?Web depolama ile web uygulamaları, verileri kullanıcının tarayıcısında yerel olarak depolayabilir.
 
